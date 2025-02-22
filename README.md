@@ -1,4 +1,4 @@
-# Text Summarizer
+# Text Summarizer using hugging face transformer library
 
 This repository contains a Python script that extracts text from a PDF file and generates a summarized version of the text using the Hugging Face Transformers library. It leverages the `facebook/bart-large-cnn` model for text summarization. The script is designed to handle larger PDFs by chunking the text and summarizing each chunk separately.
 
